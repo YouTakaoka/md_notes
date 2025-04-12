@@ -49,7 +49,7 @@ $$\min(A) = \set{n\sigma | \sigma \in \Sigma(A),\ n\in \mathbb{N}}$$
 >
 > $$(n_1, m_1) \sim (n_2, m_2) \iff n_1 + m_2 = m_1 + n_2$$
 >
-> にて定義する．集合 $\mathbb{N}^2/\sim$を$\mathbb{Z}$ と記す．
+> にて定義する．集合 $\mathbb{N}^2/\sim$ を $\mathbb{Z}$ と記す．
 > $\mathbb{N}$ の加法および乗法から， $\mathbb{Z}$ の加法と乗法が自然に誘導され，これらの演算によって $\mathbb{Z}$ は環を成す．
 > $\mathbb{Z}$ を**整数環**と呼ぶ．
 
